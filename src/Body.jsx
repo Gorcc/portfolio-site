@@ -23,10 +23,10 @@ const Body = () => {
         </p>
         <div className="links">
           <a href="https://github.com/Gorcc" target="_blank">
-            <i class="fa-brands fa-github fa-2xl icon"></i>
+            <i class="fa-brands fa-github icon big-text "></i>
           </a>
           <a target="_blank" href="https://www.linkedin.com/in/gorkemater/">
-            <i class="fa-brands fa-linkedin fa-2xl icon"></i>
+            <i class="fa-brands fa-linkedin big-text icon"></i>
           </a>
         </div>
 

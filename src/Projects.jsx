@@ -15,6 +15,15 @@ const Projects = () => {
       <h1>Projects</h1>
       <div className="cards">
         <ProjectCard
+          title="Sumarizzer"
+          img="https://giphy.com/embed/Rjd0mAQDpzXuCnRL73"
+          desc="Sumarizzer is a site to summarize articles."
+          tech={reactsvg}
+          s
+          code="https://github.com/Gorcc/sumarizzer"
+          live="https://sumarizzer.com"
+        />
+        <ProjectCard
           title="Moviezone"
           img="https://giphy.com/embed/YTHsCCa9e3GslJOhbJ"
           desc="Moviezone is a simple movie search app made in React, it uses Omdb API to find the movies."

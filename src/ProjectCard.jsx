@@ -18,10 +18,10 @@ const ProjectCard = (props) => {
 
       <div className="project-buttons">
         <a target="_blank" href={props.code}>
-          <i class="fa-brands fa-github fa-2xl project-icon"></i>
+          <i class="fa-brands fa-github  project-icon"></i>
         </a>
         <a target="_blank" href={props.live}>
-          <i class="fa-solid fa-laptop fa-2xl project-icon "></i>
+          <i class="fa-solid fa-laptop  project-icon "></i>
         </a>
       </div>
     </div>
