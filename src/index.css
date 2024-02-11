@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+body{
+  color: white;
+  background-color: black;
+  font-family: 'Inter Tight', sans-serif;
+
+}
+
+.footer-container{
+  width: 100%;
+  text-align: center;
+
+  
+}
+
+
+.footer-container p{
+  font-size: 12px;
+  padding: 12px;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}

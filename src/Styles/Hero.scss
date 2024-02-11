@@ -1,0 +1,75 @@
+.hero-container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 90vh;
+color: white;
+
+
+
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 30%;
+    
+    
+
+    
+}
+    h1{
+        
+        color: #ffffff;
+        font-size: 52px;
+        margin: 0;
+        
+
+    }
+    h2{
+        font-size: 48px;
+        margin: 0;
+    }
+
+    a{
+        background-color: yellow;
+        padding: 12px;
+        text-decoration: none;
+        font-weight: bold;
+        
+        color: black;
+        margin-top: 12px;
+        border-radius: 5px;
+
+    }
+
+}
+
+.svg-hand{
+    width: 50px !important;
+    height: 50px !important;
+    opacity: 1 !important;
+}
+
+
+@media screen and (max-width: 1000px) {
+
+    .hero-container{
+        img{
+            width: 50%;
+            height: 50%;
+        }
+
+        h1{
+            font-size: 24px;
+        }
+        h2{
+            font-size: 20px;
+            margin: 8px;
+        }
+        a{
+            padding: 6px;
+        }
+    }
+   
+  }
+
