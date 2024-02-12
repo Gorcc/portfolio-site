@@ -54,9 +54,12 @@ img{
 @media screen and (max-width: 1000px) {
 
     .hero-container{
+        justify-content: flex-start;
+        height: 100%;
         img{
-            width: 50%;
-            height: 50%;
+            width: 80%;
+            height: 200px;
+            object-fit: contain;
         }
 
         h1{
