@@ -34,7 +34,7 @@ const Contact = () => {
           href="https://cdn.discordapp.com/attachments/336171716126572548/1206362128915894272/GorkemAter_-_CVFinal.pdf?ex=65dbbb48&is=65c94648&hm=102911ee65985b17153fdaf78ccd5d8dedc693208ac0cf71555a1c0c554880b3&"
           className="cv"
         >
-          CV ↓
+          Resume ↓
         </a>
       </div>
     </div>
