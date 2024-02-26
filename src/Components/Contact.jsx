@@ -31,7 +31,8 @@ const Contact = () => {
           gorkem.ater1@gmail.com
         </a>
         <a
-          href="https://cdn.discordapp.com/attachments/336171716126572548/1206362128915894272/GorkemAter_-_CVFinal.pdf?ex=65dbbb48&is=65c94648&hm=102911ee65985b17153fdaf78ccd5d8dedc693208ac0cf71555a1c0c554880b3&"
+        target="blank"
+          href="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/port-site/GörkemAter%20-%20CVFinal%20(1).pdf"
           className="cv"
         >
           Resume ↓

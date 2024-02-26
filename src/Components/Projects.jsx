@@ -12,7 +12,7 @@ const Projects = () => {
       <div className="project">
         <a href="https://social-app-gorcc.vercel.app" target="_blank">
           <img
-            src="https://cdn.discordapp.com/attachments/336171716126572548/1206306387995402270/image.png?ex=65db875e&is=65c9125e&hm=5d4d3f0754aca9e0d93e9daeefcbe79ce8aa52e25f6e0e441fc204612bf826e1&"
+            src="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/port-site/socialapp.png"
             alt=""
           />
         </a>
@@ -48,7 +48,7 @@ const Projects = () => {
       <div className="project">
         <a href="https://arkhio-nine.vercel.app" target="_blank">
           <img
-            src="https://cdn.discordapp.com/attachments/336171716126572548/1206307740671287366/image.png?ex=65db88a1&is=65c913a1&hm=54f9eafd82b923b36add6270444886c2f0fe2f44be8b01d618916079b18ed974&"
+            src="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/port-site/arkhio.png"
             alt=""
           />
         </a>
@@ -84,7 +84,7 @@ const Projects = () => {
       <div className="project">
         <a href="https://www.teamsly.net" target="_blank">
           <img
-            src="https://cdn.discordapp.com/attachments/336171716126572548/1206334591028437062/image.png?ex=65dba1a3&is=65c92ca3&hm=fa1e56620d48e1da6aed2c541056fd8308901ff27c24426b2d07c92d902ee143&"
+            src="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/port-site/sly.png"
             alt=""
           />
         </a>
@@ -118,7 +118,7 @@ const Projects = () => {
       <div className="project">
         <a href="https://gorcc.itch.io/crazy-highway" target="_blank">
           <img
-            src="https://cdn.discordapp.com/attachments/336171716126572548/1206331671272759337/image.png?ex=65db9eea&is=65c929ea&hm=64fadc50ef304fd5288f8015c70a543f57ff788457e4bac411aba7b7152464f2&"
+            src="https://cdn.jsdelivr.net/gh/Gorcc/cdn@main/port-site/crazyhighway.png"
             alt=""
           />
         </a>
