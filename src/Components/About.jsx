@@ -10,13 +10,13 @@ const About = () => {
         <div className="about-left">
           <h2>About Me</h2>
           <p>
-            Hello!, I'm Deniz Görkem. 4th year Computer Engineering student from
+            Hello!, I'm Deniz Görkem. 4th year Computer Engineering student studying in
             North Cyprus. I am passionate about Software Development and worked
-            mostly on <strong>Front-end (React)</strong> and{" "}
-            <strong> Game Development (Unity C#)</strong> fields. I'm also
-            familliar with backend technologies like Node.js.
+            mostly on <strong>Front-end (React)</strong> field. I'm also
+            familliar with backend technologies and Game Development technologies like Node.js and C#.
           </p>
           <div className="fields">
+            <p>Tech Stack</p>
             <img src="https://skillicons.dev/icons?i=html" alt="" />
             <img src="https://skillicons.dev/icons?i=css" alt="" />
             <img src="https://skillicons.dev/icons?i=javascript" alt="" />

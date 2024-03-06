@@ -4,7 +4,6 @@
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  
 }
 
 .project-header {
@@ -21,19 +20,15 @@
   justify-content: space-evenly;
   margin-bottom: 40px;
   transition: 0.3s all ease;
-  h2{
+  h2 {
     transition: 0.3s all ease;
   }
-  a{
+  a {
     color: white;
     margin-right: 20px;
     text-decoration: none;
-    
-
-   
-    
   }
-  a:hover{
+  a:hover {
     color: yellow;
   }
   img {
@@ -41,54 +36,78 @@
     margin-right: 40px;
     border-radius: 10px;
     border: 2px solid rgba(255, 255, 255, 0.219);
+    transition: 0.3s all ease;
   }
- 
 }
 
 .project-tech {
   display: flex;
   margin-bottom: 20px;
-  
+
   img {
     width: 24px;
     height: 24px;
     margin-right: 8px;
-
     border: none;
   }
 }
 
-
-.project:hover h2{
-color: yellow;
+.project:hover h2 {
+  color: yellow;
+}
+.project:hover .project-img {
+  transform: scale(1.03);
 }
 
+.project-buttons {
+  display: flex;
+  justify-content: center;
+}
+.project-buttons button {
+  padding: 12px;
+  margin: 12px 0;
+  margin-bottom: 24px;
+  margin-right: 12px;
+  background-color: transparent;
+  border-radius: 10px;
+  color: white;
+  border: 1px solid white;
+  font-size: 14px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+}
 
-@media screen and (max-width:1000px) {
-  .project{
+.project-buttons .active {
+  border: 1px solid yellow;
+  background-color: yellow;
+  color: black;
+}
+
+@media screen and (max-width: 1000px) {
+  .project {
     flex-direction: column;
 
-    .project-tech{
+    .project-tech {
       justify-content: center;
-      img{
+      img {
         width: 24px;
       }
     }
-    
-    h2{
+
+    h2 {
       font-size: 20px;
       text-align: center;
     }
-    img{
-     width: 16rem;
+    img {
+      width: 100%;
     }
   }
-  .project-header{
+  .project-header {
     font-size: 20px;
   }
 
-  .code-live{
+  .code-live {
     text-align: center;
   }
-  
 }
